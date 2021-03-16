@@ -1,0 +1,13 @@
+{
+  "appId": "com.kuro.cipher",
+  "appName": "kuro-cipher",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

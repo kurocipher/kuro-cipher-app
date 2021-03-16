@@ -1,0 +1,7 @@
+{
+  "name": "kuro-cipher",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
